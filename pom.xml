@@ -8,11 +8,11 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>football-league-api</artifactId>
+	<groupId>com.datastore</groupId>
+	<artifactId>datastore-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>football-league-api</name>
-	<description>football league standings microservice</description>
+	<name>datastore-api</name>
+	<description>datastore microservice</description>
 
 	<properties>
 		<java.version>1.8</java.version>
